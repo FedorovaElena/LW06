@@ -1,6 +1,6 @@
 language: python
 puthon: 3.8
 script: 
-  - cd QuadEquation
+  - cd LW06
   - pytest
   - cd ..
